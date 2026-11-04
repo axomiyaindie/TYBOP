@@ -9,7 +9,7 @@ _TODO: write this section._
 ## Steps
 1. _TODO_
 
-## 🤖 AI shortcut
+## AI shortcut
 _TODO: add a prompt or workflow._
 
 ## Free / low-cost tools
@@ -18,5 +18,5 @@ _TODO: add a prompt or workflow._
 ## Common mistakes
 - _TODO_
 
-## ✅ Do this today
+## Do this today
 _TODO_

@@ -1,4 +1,4 @@
-# 🚀 TYBOP: Take Your Business Online Playbook
+# TYBOP: Take Your Business Online Playbook
 
 > A free, open-source, practical guide to getting your business online and growing it in the age of AI.
 
@@ -30,7 +30,7 @@ Plus ready-to-use [templates](templates/).
 
 ## Status
 
-🌱 **Early draft.** The structure is here, and the chapters are waiting for your knowledge. See [CONTRIBUTING.md](CONTRIBUTING.md).
+ **Early draft.** The structure is here, and the chapters are waiting for your knowledge. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Contribute
 

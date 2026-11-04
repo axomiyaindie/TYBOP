@@ -1,6 +1,6 @@
 # Contributing to TYBOP
 
-Thank you for helping people get their businesses online! 🙌
+Thank you for helping people get their businesses online!
 
 ## Ways to contribute
 

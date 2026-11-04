@@ -11,7 +11,7 @@ Short explanation in plain words.
 2. Step two
 3. Step three
 
-## 🤖 AI shortcut
+## AI shortcut
 A prompt or workflow that speeds this up.
 
 ## Free / low-cost tools
@@ -20,5 +20,5 @@ A prompt or workflow that speeds this up.
 ## Common mistakes
 - Mistake, and how to avoid it
 
-## ✅ Do this today
+## Do this today
 One small action the reader can finish in 30 minutes.
